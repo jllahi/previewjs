@@ -1,7 +1,7 @@
 {
   "name": "@previewjs/loader-release",
   "dependencies": {
-    "@previewjs/core": "29.0.1",
+    "@previewjs/core": "29.1.0",
     "@previewjs/plugin-preact": "10.0.1",
     "@previewjs/plugin-react": "16.0.1",
     "@previewjs/plugin-solid": "13.0.1",
